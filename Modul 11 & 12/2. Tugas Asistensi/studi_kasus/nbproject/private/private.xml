@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Controller/AllObjectModel.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Entity/PemesanEntity.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Entity/UserEntity.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Entity/PembeliEntity.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/View/GUIi.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Entity/induk.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Controller/PembeliController.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/View/UpdateGUI.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Model/pembeliModel.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/View/Allobjctrl.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Entity/AkunEntity.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Controller/ControllerInterface.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Controller/AdminController.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Entity/AbstractEntity.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/project/Main.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Model/UserModel.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Model/FilmModel.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/View/PemesanGUI.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Entity/daftarpemesan.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Entity/AdminEntity.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Model/ModelInterface.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Controller/PenjualController.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Model/AdminModel.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Entity/FilmEntity.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Controller/UserController.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/View/PenjualGUI.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Model/DaftarModel.java</file>
+            <file>file:/D:/studi_kasus_y/studi_kasus/src/Controller/FilmController.java</file>
+        </group>
+    </open-files>
+</project-private>
